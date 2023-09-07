@@ -1,0 +1,14 @@
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\bin\Debug\net7.0\FARMACIA.exe
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\bin\Debug\net7.0\FARMACIA.deps.json
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\bin\Debug\net7.0\FARMACIA.runtimeconfig.json
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\bin\Debug\net7.0\FARMACIA.dll
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\bin\Debug\net7.0\FARMACIA.pdb
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\obj\Debug\net7.0\FARMACIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\obj\Debug\net7.0\FARMACIA.AssemblyInfoInputs.cache
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\obj\Debug\net7.0\FARMACIA.AssemblyInfo.cs
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\obj\Debug\net7.0\FARMACIA.csproj.CoreCompileInputs.cache
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\obj\Debug\net7.0\FARMACIA.dll
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\obj\Debug\net7.0\refint\FARMACIA.dll
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\obj\Debug\net7.0\FARMACIA.pdb
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\obj\Debug\net7.0\FARMACIA.genruntimeconfig.cache
+C:\Users\Valéria\Desktop\Farmacia\Projeto\FARMACIA\obj\Debug\net7.0\ref\FARMACIA.dll
